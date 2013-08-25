@@ -15,10 +15,9 @@ require File.expand_path(File.dirname(__FILE__) + '/neo')
 class Proxy
   def initialize(target_object)
     @object = target_object
-    # ADD MORE CODE HERE
   end
-
   # WRITE CODE HERE
+
 end
 
 # The proxy object should pass the following Koan:
